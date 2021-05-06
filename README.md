@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @shanetuohy
-- 👀 I’m interested in home automation, bots and generally just having fun with various APIs and gadgets. 
+# 👋 Hi
+
+I'm Shane Tuohy, a cloud calling product manager based in 🇮🇪. 
+
+I’m interested in home automation, bots and generally just having fun with various APIs and gadgets. 
 
 
 - 👨‍💻 Blog - https://shane.so
 - #️⃣ Twitter - https://twitter.com/shanetuohy
-- ⚽ FPL Stats Site - https://tuohy.dev
-
+- ⚽ FPL Minileague Stats Site - https://tuohy.dev
+- 🤖 Irish Vaccine Telegram Bot - https://t.co/irish_vaccine_bot
 
 
 
