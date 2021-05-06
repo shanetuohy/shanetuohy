@@ -1,8 +1,8 @@
-# 👋 Hi
+# 👋 Hello 👋
 
 I'm Shane Tuohy, a cloud calling product manager based in 🇮🇪. 
 
-I’m interested in home automation, bots and generally just having fun with various APIs and gadgets. 
+I’m interested in home automation, bots and generally just having fun with various APIs.
 
 
 - 👨‍💻 Blog - https://shane.so
