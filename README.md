@@ -7,8 +7,6 @@ I’m interested in home automation, bots and generally just having fun with var
 
 - 👨‍💻 Blog - https://shane.so
 - #️⃣ Twitter - https://twitter.com/shanetuohy
-- ⚽ FPL Minileague Stats Site - https://tuohy.dev
-- 🤖 Irish Vaccine Telegram Bot - https://t.co/irish_vaccine_bot
 
 
 
